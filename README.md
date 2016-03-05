@@ -1,2 +1,2 @@
-# C_plus_plus
-intro
+# C-plus-plus
+Introduction to C++
